@@ -2,5 +2,5 @@
 Hide image source when inspected from browser
 
 # attributes
-src (image source)
+src (image source)<br>
 cors (url)
