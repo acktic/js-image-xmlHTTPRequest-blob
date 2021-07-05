@@ -10,7 +10,7 @@ Hide image source when inspected from browser
 `                var read = new FileReader();`<br>
 `                read.readAsDataURL(request.response);`<br>
 `                read.onload = function (e) {`<br>
-`                                            newImg.setAttribute(`src`, e.target.result)`<br>
+`                                            newImg.setAttribute('src', e.target.result)`<br>
 `                                           };`<br>
 `                read.onerror = function (e) { };`<br>
 `              }`<br>
